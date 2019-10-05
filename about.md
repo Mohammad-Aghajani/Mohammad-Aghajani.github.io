@@ -37,4 +37,4 @@ My research interests are as following:
 </ul>
 
 <h2>Projects</h2>
-<p> You can see my projecs on my <a href="https://github.com/mohammad-aghajani" style="border:0;outline:0">GitHub</a></p>
+<p> You can see my projects on my <a href="https://github.com/mohammad-aghajani" style="border:0;outline:0">GitHub</a></p>
