@@ -8,8 +8,9 @@ layout: page
 My name is Mohammad Aghajani and I am a senior undergraduate student in Electrical Engineering at the <a href="aut.ac.ir/en" style="border:0;outline:0">Amirkabir University of Technology</a> (Tehran Polytechnic).<br>
 My research interests are as following:
 <ul class="skill-list">
-	<li> Machine Learning | Computer Vision | Data Visualization | Data Mining | Human-Computer Interaction  </li>
+	<li> Machine Learning | Computer Vision | Image Processing | Pattern Recognition  </li>
 	<li> Embedded Systems | Cyber-Physical Systems (IoT) | Big Data </li>
+	<li> Data Visualization | Human-Computer Interaction | Data Mining </li>
 </ul>
 </p>
 
