@@ -9,7 +9,7 @@ My name is Mohammad Aghajani and I am a senior undergraduate student in Electric
 My research interests are as following:
 <ul class="skill-list">
 	<li> Embedded Systems | Cyber-Physical Systems (IoT) | Robotics </li>
-	<li> Machine Learning | Computer Vision | Image Processing  </li>
+	<li> Signal and Image Processing | Machine Learning | Computer Vision  </li>
 	<!-- <li> Data Visualization | Human-Computer Interaction | Data Mining </li> -->
 </ul>
 </p>
