@@ -8,7 +8,7 @@ layout: page
 My name is Mohammad Aghajani and I am a senior undergraduate student in Electrical Engineering at the <a href="aut.ac.ir/en" style="border:0;outline:0">Amirkabir University of Technology</a> (Tehran Polytechnic).<br>
 My research interests are as following:
 <ul class="skill-list">
-	<li> Electronic Computer-Aided Design | Cyber-Physical Systems (IoT) | Embedded Systems | Machine Learning | High-Performance Computing  </li>
+	<li> Machine Learning | High-Performance Computing | Hardware Acceleration | Embedded Systems | Cyber-Physical Systems (IoT)  	</li>
 	<!-- <li> Data Visualization | Human-Computer Interaction | Data Mining </li> -->
 	
 </ul>
