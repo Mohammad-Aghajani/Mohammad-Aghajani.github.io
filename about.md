@@ -8,7 +8,7 @@ layout: page
 My name is Mohammad Aghajani and I am a senior undergraduate student in Electrical Engineering at the <a href="aut.ac.ir/en" style="border:0;outline:0">Amirkabir University of Technology</a> (Tehran Polytechnic).<br>
 My research interests are as following:
 <ul class="skill-list">
-	<li> Machine Learning | High-Performance Computing | Hardware Acceleration | Embedded Systems | Cyber-Physical Systems (IoT)  	</li>
+	<li> Machine Learning | Algorithm Design | Embedded Systems | Internet of Things  	</li>
 	<!-- <li> Data Visualization | Human-Computer Interaction | Data Mining </li> -->
 	
 </ul>
@@ -29,7 +29,7 @@ My research interests are as following:
 	</li>
 	<li>Hardwares
 		<ul>
-		<li>ARM cortex M4 and M0 (STM32F4DISCOVERY,FRDMKL25Z), AVR Micro Controllers Family, Arduino (NodeMCUESP8266), Xilinx FPGA Spartan-3 & Spartan-6 Families
+		<li>ARM cortex M4 and M0 (STM32F4DISCOVERY,FRDMKL25Z), AVR Micro Controllers Family, Arduino (NodeMCUESP8266)
 		</li>
 		</ul>
 	</li>
