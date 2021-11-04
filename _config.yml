@@ -1,6 +1,6 @@
 # main text of home
 name: Mohammad Aghajani
-bio: B.Sc. Student @ Amirkabir University of Technology (AUT)
+bio: M.Sc. Student @ Indiana University Bloomington (AUT)
 
 # twitter summary info
 description: A blog about Mohammad Aghajani
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1bXoYKOE5_5bKg0z1ECSTf12noBv01BTn/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1nnXQ3DOCO1YiN5dw6fia1QgHdr4cm5ZB/view?usp=sharing
 
 url: https://mohammad-aghajani.github.io/
 # your url: http://USERNAME.github.io
