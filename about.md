@@ -10,7 +10,7 @@ I am a Research Assistant at the <a href="https://jiang60.pages.iu.edu/"> Unchar
 My research interests are as following:
 <ul class="skill-list">
 	<li> Machine Learning/Deep Learning | Computer Vision | Data Mining </li>
-	<li> Control Theory | Reinforcement Learning </li> 
+	<li> Singal Processing | Control Systems | Reinforcement Learning </li> 
 
 </ul>
 </p>
