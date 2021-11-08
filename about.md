@@ -5,32 +5,32 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-My name is Mohammad Aghajani and I am a senior undergraduate student in Electrical Engineering at the <a href="aut.ac.ir/en" style="border:0;outline:0">Amirkabir University of Technology</a> (Tehran Polytechnic).<br>
+My name is Mohammad Aghajani and I will graduate as a master student in Spring 2022 from Indiana Universirt Bloomington.<br> <br>
+I am a Research Assistant at the <a href="https://jiang60.pages.iu.edu/"> Uncharted</a>. The focus of the Uncharted research group includes privacy-preserving machine learning and hardware accelerator design for emerging applications. I am currently researching hardware acceleration of Fully-HE schemes (BGV and TFHE) to accelerate the FFT algorithm (the most computationally intensive part) by using specific hardware designs.<br><br>
 My research interests are as following:
 <ul class="skill-list">
-	<li> Machine Learning | Algorithm Design | Embedded Systems | Internet of Things  	</li>
-	<!-- <li> Data Visualization | Human-Computer Interaction | Data Mining </li> -->
-	
+	<li> Machine Learning/Deep Learning | Computer Vision | Data Mining </li>
+	<li> Control Theory | Reinforcement Learning </li> 
+
 </ul>
 </p>
 
 <h2>Skills</h2>
 <ul class="skill-list">
 	
-	<li>Programming
+	<li>Languages
 		<ul>
-			<li>C/C++, Python, Java, VHDL, Assembly, Javascript, Git, HTML, CSS </li>
+			<li>C/C++, Python, SPICE, Html5, CSS3, JacaScript </li>
 		</ul>
 	</li>
-	<li>Technical Softwares
+	<li>Hardware
 		<ul>
-			<li>Matlab, Pspice, Hspice, Keil uVision, STM32CubeMX, ISE Design Suite, Code Vision AVR, Altium Designer</li>
+			<li>VHDL, Assembly, Arm, AVR, Arduino</li>
 		</ul>
 	</li>
-	<li>Hardwares
+	<li>Miscellaneous
 		<ul>
-		<li>ARM cortex M4 and M0 (STM32F4DISCOVERY,FRDMKL25Z), AVR Micro Controllers Family, Arduino (NodeMCUESP8266)
-		</li>
+		<li>Linux, LaTeX, Jupyter Notebook, Matlab, Git</li>
 		</ul>
 	</li>
 
