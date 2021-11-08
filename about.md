@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-My name is Mohammad Aghajani and I will graduate as a master student in Spring 2022 from Indiana Universirt Bloomington.<br> <br>
+My name is Mohammad Aghajani and I will graduate as a master's student in Spring 2022 from Indiana University Bloomington.<br> <br>
 I am a Research Assistant at the <a href="https://jiang60.pages.iu.edu/"> Uncharted</a>. The focus of the Uncharted research group includes privacy-preserving machine learning and hardware accelerator design for emerging applications. I am currently researching hardware acceleration of Fully-HE schemes (BGV and TFHE) to accelerate the FFT algorithm (the most computationally intensive part) by using specific hardware designs.<br><br>
 My research interests are as following:
 <ul class="skill-list">
