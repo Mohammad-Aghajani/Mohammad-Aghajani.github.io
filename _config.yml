@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1ZqmIEleow8xMCjYuu3XkdLncJQm2_S6V/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1rDpdXQ1nbz3pAy2qbh2UhPrzmvd3HjG9/view?usp=sharing
 
 url: https://mohammad-aghajani.github.io/
 # your url: http://USERNAME.github.io
@@ -37,7 +37,7 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 # google: mygoogle
-instagram: _aqaj_
+# instagram: _aqaj_
 # pinterest: mypinterest
 #linkedin: mohammad-aghajani
 # youtube: myyoutube
