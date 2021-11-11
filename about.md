@@ -9,7 +9,7 @@ My name is Mohammad Aghajani and I will graduate as a master's student in Spring
 I am a Research Assistant at the <a href="https://jiang60.pages.iu.edu/"> Uncharted</a>. The focus of the Uncharted research group includes privacy-preserving machine learning and hardware accelerator design for emerging applications. I am currently researching hardware acceleration of Fully-HE schemes (BGV and TFHE) to accelerate the FFT algorithm (the most computationally intensive part) by using specific hardware designs.<br><br>
 My research interests are as following:
 <ul class="skill-list">
-	<li> Machine Learning/Deep Learning | Computer Vision | Data Mining </li>
+	<li> Machine Learning/Deep Learning | Computer Vision | Data Mining | Big Data </li>
 	<li> Singal Processing | Control Systems | Reinforcement Learning </li> 
 
 </ul>
@@ -20,12 +20,12 @@ My research interests are as following:
 	
 	<li>Languages
 		<ul>
-			<li>C/C++, Python, SPICE, Html5, CSS3, JacaScript </li>
+			<li>C/C++, Python, Java, R, SPICE, HTML, CSS, JacaScript, Assembly </li>
 		</ul>
 	</li>
 	<li>Hardware
 		<ul>
-			<li>VHDL, Assembly, Arm, AVR, Arduino</li>
+			<li>VHDL, Arm, AVR, Arduino</li>
 		</ul>
 	</li>
 	<li>Miscellaneous
